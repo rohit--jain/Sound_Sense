@@ -1,4 +1,4 @@
-# Human Computer Interaction Beyond Screens
+# Human Machine Interaction Beyond Screens
 
 There have been many recent advances in the field of **Human Machine Interaction (HMI)**, with most solutions for computer output to humans being centered around *Displays* and *Screens* of various sizes and types.  
 These solutions rely on intuitive user interfaces with text and graphics to render large volumes of information to users.  
