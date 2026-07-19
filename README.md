@@ -5,7 +5,7 @@ These solutions rely on intuitive user interfaces with text and graphics to rend
 
 In our lab, we pursued an alternative approach — to explore methods of outputting information to human users *beyond screens*, that is, without using any display or screen.
 
-**Update: A detailed research paper publication is under progress and will be available soon!**
+*Update: A detailed research paper publication is under progress and will be available soon!*
 ---
 
 ## Project Overview
